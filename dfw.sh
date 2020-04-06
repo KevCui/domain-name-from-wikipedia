@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Find website official URL from Wikipedia
+# Fetch website official URL from Wikipedia
 #
 #/ Usage:
 #/   ./dfw.sh <search_text>
