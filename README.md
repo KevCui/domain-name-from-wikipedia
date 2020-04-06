@@ -1,7 +1,7 @@
 domain-name-from-wikipedia
 ==========================
 
-dfw.sh (_d_omain name _f_rom _w_ikipedia) can fetch website official URL from Wikipedia.
+dfw.sh (`d`omain name `f`rom `w`ikipedia) can fetch website official URL from Wikipedia.
 
 ## How to use
 
